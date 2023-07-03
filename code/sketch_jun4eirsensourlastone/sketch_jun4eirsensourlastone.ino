@@ -1,8 +1,4 @@
-/*
- * Created by ASHIQ SHIBU ( MAKER Q )
- * Project: Line following robot
- * https://www.youtube.com/channel/UCIz1eXBA1oWAXXaP-b0N5EA
-  */
+
 
   int vSpeed = 120;        // MAX 255
   int turn_speed = 200;    // MAX 255 
